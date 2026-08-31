@@ -36,7 +36,6 @@ python sudoku_solver.py
 Use sample puzzle? (y/n): y
 
 Unsolved Sudoku:
-Puzzle to solve:
 
 . . . | 2 6 . | 7 . 1 
 6 8 . | . 7 . | . 9 . 
