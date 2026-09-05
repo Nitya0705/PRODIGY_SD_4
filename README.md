@@ -72,7 +72,7 @@ Solved Sudoku:
 - Structuring and formatting grid-based console output
 
 ## 🎥 Demo
-
+https://lnkd.in/g-y3symK
 
 ## 🏷️ Tags
 
